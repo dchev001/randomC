@@ -1,2 +1,1 @@
-# randomC
-## Random programs in C.
+#### Random programs in C.
